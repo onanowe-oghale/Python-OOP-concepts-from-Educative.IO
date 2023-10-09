@@ -1,0 +1,9 @@
+object oriented programming is based on the creation of reusable objects that have their own properties and behaviors that can be acted upon or manipulated and bundled.
+
+For example say our object is an Employee. These properties could be their name, age and role. OOP maked it east toe model real- world things and the relationships between them.
+Methods define the behvior of an object.
+
+--------------------OOP IN PYTHON------------------------------
+Python supports OOP as well as other paradigms, classes are used to achieve OOP 
+
+OOP makes it possible to achieve the DRY principle(Don't Repeat Yourself).
